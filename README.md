@@ -24,21 +24,6 @@ This step is essential in **Exploratory Data Analysis (EDA)** to decide appropri
 
 ---
 
-## 🚀 How to Run
-
-1. Clone this repository:
-   
----
-
-**##💡 Use Cases**
-Preparing datasets for EDA
-
-Selecting appropriate charts (e.g., histograms for quantitative, bar charts for qualitative)
-
-Choosing statistical tests based on variable type
-
----
-
 ## 👩‍💻 Author
 
 **Sai Vennela Yadavalli**  
@@ -47,7 +32,3 @@ Choosing statistical tests based on variable type
 ---
 
 > “Understanding your variables is the first step toward understanding your data.” 📈
-
-
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
